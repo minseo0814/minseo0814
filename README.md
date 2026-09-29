@@ -71,8 +71,9 @@ GroundingDINO의 프롬프트 변화에 따른 객체 검출 결과와 민감도
 - 6 Sigma Green Belt
 - 항공무선통신사
 - 자동차운전면허 2종 보통
+- OPIC IH
 
 ## Contact
 
-- Email: [이메일 주소]
+- Email: guykms814@naver.com / singki814@naver.com
 - Portfolio: [https://minseo0814.github.io](https://minseo0814.github.io)
